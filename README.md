@@ -8,6 +8,7 @@ A 2D asteroid simulation using the MonoGame framework. Uses procedurally generat
 - **Physics-Based Bouncing**: Asteroids bounce off each other upon collision, with velocity adjustments based on their trajectories.
 - **Debugging Tools**: Includes visual debugging such as red dots to display asteroid vertices.
 
+![Asteroids!](asteroids.gif)
 
 ## Prerequisites
 - Install [VS Code](https://code.visualstudio.com/)
